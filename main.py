@@ -1,11 +1,11 @@
 """Break Production, Own It — make.fun entry.
 
-Entry text: 116 characters (limit 200).
+Entry text: 114 characters (limit 200).
 """
 
 import os
 
-ENTRY = 'ERROR 500: I deployed on a Friday, skipped the tests, and production is now a group project between me and the void.'
+ENTRY = 'ERROR 500: deployed on a Friday, skipped the tests, and now production is a group project between me and the void.'
 
 
 def main():

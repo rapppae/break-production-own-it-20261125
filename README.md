@@ -6,7 +6,7 @@
 
 Bounty: https://make.fun/bounty/u-ricoxyz-break-production-own-it-be78a994
 
-> ERROR 500: I deployed on a Friday, skipped the tests, and production is now a group project between me and the void.
+> ERROR 500: deployed on a Friday, skipped the tests, and now production is a group project between me and the void.
 
 ## Run
 
